@@ -1,5 +1,3 @@
-
-
 console.log("Data Types");
 console.log("null : "+Boolean(null));
 console.log("NaN : "+Boolean(NaN));
