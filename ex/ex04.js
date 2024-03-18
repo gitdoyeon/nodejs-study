@@ -16,3 +16,5 @@ func_arrow3 = str => "출력3 : " + str
 console.log(func_arrow1(fal));
 console.log(func_arrow2(fal));
 console.log(func_arrow3(fal));
+
+// arrow function 과 function의 차이점
